@@ -4,7 +4,7 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 
 Доцент и старший научный сотрудник в [Московском физико-техническом институте](https://mipt.ru)
 
-[Email](mailto:w.golubev@mail.ru)
+[Email](mailto:w.golubev@mail.ru), [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=56290013800), [ResearchGate](https://www.researchgate.net/profile/Vasily-Golubev-2), [GitHub](https://github.com/vasily-golubev)
 
 ## Conferences / Конференции
 - Никитин И.С., Голубев В.И. Схемы повышенного порядка для расчёта динамики слоистых и блочных сред // [Конференция международных математических центров мирового уровня](https://siriusmathcenter.ru), 9-13 августа 2021, Сириус, Сочи, Россия.
