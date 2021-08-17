@@ -23,3 +23,9 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 - [Российски фонд фундаментальных исследований](https://www.rfbr.ru)
 - [Фонд содействия инновациям](https://fasie.ru)
 - [Дирекция научно-технических программ](http://fcntp.ru)
+
+## Collaborators / Коллеги
+- [Dr. Chen Gang](https://gr.xjtu.edu.cn/en/web/aachengang/8) - Xi'an Jiaotong University, Xi'an, China
+- [Prof. Amit Sharma](https://ies.ipsacademy.org/departments/civil-engg/faculty-profile/) - IPS Academy, Indore, India
+- [Никитин И.С., д.ф.-м.н.](https://publons.com/researcher/2546194/ilia-nikitin/) - Институт автоматизации проектирования РАН, Москва, Россия
+- [Петров И.Б., чл.-корр. РАН](https://scholar.google.ru/citations?user=OYmiq5sAAAAJ&hl=ru) - Московский физико-технический институт, Долгопрудный, Россия
