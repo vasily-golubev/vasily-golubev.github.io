@@ -1,8 +1,8 @@
 # Vasily Golubev
 
-Associate Professor and Senior Researcher at [Moscow Institute of Physics and Technology](https://mipt.ru)
+Associate Professor and Senior Researcher at [Moscow Institute of Physics and Technology](https://mipt.ru), [PhD](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Golubev_Vasiliy_Ivanovich)
 
-Доцент и старший научный сотрудник в [Московском физико-техническом институте](https://mipt.ru)
+Доцент и старший научный сотрудник в [Московском физико-техническом институте](https://mipt.ru), [к.ф.-м.н.](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Golubev_Vasiliy_Ivanovich)
 
 [Email](mailto:w.golubev@mail.ru), [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=56290013800), [ResearchGate](https://www.researchgate.net/profile/Vasily-Golubev-2), [GitHub](https://github.com/vasily-golubev)
 
