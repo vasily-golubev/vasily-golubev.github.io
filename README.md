@@ -1,4 +1,4 @@
-# Vasily Golubev
+# Vasily Golubev / Василий Иванович Голубев
 
 Associate Professor and Senior Researcher at [Moscow Institute of Physics and Technology](https://mipt.ru), [PhD](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Golubev_Vasiliy_Ivanovich)
 
