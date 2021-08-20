@@ -31,5 +31,5 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 - [Никитин И.С., д.ф.-м.н.](https://publons.com/researcher/2546194/ilia-nikitin/) - Институт автоматизации проектирования РАН, Москва, Россия
 - [Петров И.Б., чл.-корр. РАН](https://scholar.google.ru/citations?user=OYmiq5sAAAAJ&hl=ru) - Московский физико-технический институт, Долгопрудный, Россия
 
-## Taught courses/ Читаемые курсы
+## Taught Courses / Читаемые курсы
 - [Осень, 2021-2022](./courses/courses.md)
