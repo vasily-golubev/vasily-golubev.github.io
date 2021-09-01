@@ -33,3 +33,6 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 
 ## Taught Courses / Читаемые курсы
 - [Осень, 2021-2022](./courses/courses.md)
+
+## Some Papers / Избранные статьи
+- [Simulation of Seismic Waves in Anisotropic Media, 2021](https://rdcu.be/cws7w)
