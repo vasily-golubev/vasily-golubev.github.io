@@ -31,6 +31,8 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 
 ## Dissertation Reviewer / Отзывы на диссертации
 - [Муртазин Дамир Гумарович](https://npf-geofizika.ru/services/aspirantura/dissertatsionnyy-sovet/obyavleniya-o-zashchite/murtazin-damir-gumarovich/)
+- [Моисеева Юлия Александровна](http://earchive.tpu.ru/handle/11683/52813)
+- [Пургина Дарья Валерьевна](http://earchive.tpu.ru/bitstream/11683/52814/1/thesis_tpu-2018-38.pdf)
 
 ## Collaborators / Коллеги
 - [Dr. Chen Gang](https://gr.xjtu.edu.cn/en/web/aachengang/8) - Xi'an Jiaotong University, Xi'an, China
