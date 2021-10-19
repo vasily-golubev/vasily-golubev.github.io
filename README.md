@@ -7,6 +7,8 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 [Email](mailto:w.golubev@mail.ru), [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=56290013800), [ResearchGate](https://www.researchgate.net/profile/Vasily-Golubev-2), [GitHub](https://github.com/vasily-golubev)
 
 ## Conferences / Конференции
+- Shevchenko A.V., Golubev V.I. Approximation Order Raising of the Grid-Characteristic Method for Two-Dimensional Acoustic Problems by High-Order Splitting Techniques // [Smart Computational Methods in Continuum Mechanics](https://cmcm2021.mipt.ru), 27-29 октября 2021, Долгопрудный, Россия.
+- Golubev V.I., Nikitin I.S. Simulation of Layered Media with Nonlinear Contact Boundary Conditions // [Smart Computational Methods in Continuum Mechanics](https://cmcm2021.mipt.ru), 27-29 октября 2021, Долгопрудный, Россия.
 - Golubev V., Shevchenko A. Explicit Simulation of Seismic Waves in Fractured VTI Media // [82-nd EAGE Annual Conference & Exhibition](https://eage.eventsair.com/eageannual2021/), 18-21 October 2021, Amsterdam, Netherlands.
 - Petrov I.B., Golubev V.I., Shevchenko A.V. Higher-Order Grid-Characteristic Schemes for the Acoustic System // [Международная конференция "Иванниковские чтения"](https://www.ivannikov-ws.org/), 24-25 сентября 2021, Нижний Новгород, Россия.
 - Никитин И.С., Голубев В.И. Схемы повышенного порядка для расчёта динамики слоистых и блочных сред // [Конференция международных математических центров мирового уровня](https://siriusmathcenter.ru), 9-13 августа 2021, Сириус, Сочи, Россия.
