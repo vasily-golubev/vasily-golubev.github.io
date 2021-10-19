@@ -7,6 +7,7 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 [Email](mailto:w.golubev@mail.ru), [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=56290013800), [ResearchGate](https://www.researchgate.net/profile/Vasily-Golubev-2), [GitHub](https://github.com/vasily-golubev)
 
 ## Conferences / Конференции
+- Golubev V., Shevchenko A. Explicit Simulation of Seismic Waves in Fractured VTI Media // [82-nd EAGE Annual Conference & Exhibition](https://eage.eventsair.com/eageannual2021/), 18-21 October 2021, Amsterdam, Netherlands.
 - Petrov I.B., Golubev V.I., Shevchenko A.V. Higher-Order Grid-Characteristic Schemes for the Acoustic System // [Международная конференция "Иванниковские чтения"](https://www.ivannikov-ws.org/), 24-25 сентября 2021, Нижний Новгород, Россия.
 - Никитин И.С., Голубев В.И. Схемы повышенного порядка для расчёта динамики слоистых и блочных сред // [Конференция международных математических центров мирового уровня](https://siriusmathcenter.ru), 9-13 августа 2021, Сириус, Сочи, Россия.
 - Golubev V.I. [The grid-characteristic method for applied dynamic problems](https://indico.jinr.ru/event/1086/contributions/13081/) // [9th International Conference "Distributed Computing and Grid Technologies in Science and Education (GRID'2021)"](https://indico.jinr.ru/event/1086/), 5-9 июля 2021, Дубна, Россия.
