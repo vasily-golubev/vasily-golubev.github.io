@@ -6,6 +6,12 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 
 [Email](mailto:w.golubev@mail.ru), [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=56290013800), [ResearchGate](https://www.researchgate.net/profile/Vasily-Golubev-2), [GitHub](https://github.com/vasily-golubev)
 
+## Community Membership / Сообщества
+
+- [European Association of Geoscientists and Engineers (EAGE)](https://eage.org/)
+
+- [Society of Petroleum Engineers (SPE)](https://www.spe.org/)
+
 ## Conferences / Конференции
 - Shevchenko A.V., Golubev V.I. Approximation Order Raising of the Grid-Characteristic Method for Two-Dimensional Acoustic Problems by High-Order Splitting Techniques // [Smart Computational Methods in Continuum Mechanics](https://cmcm2021.mipt.ru), 27-29 октября 2021, Долгопрудный, Россия.
 - Golubev V.I., Nikitin I.S. Simulation of Layered Media with Nonlinear Contact Boundary Conditions // [Smart Computational Methods in Continuum Mechanics](https://cmcm2021.mipt.ru), 27-29 октября 2021, Долгопрудный, Россия.
