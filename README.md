@@ -37,6 +37,7 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 
 ## Manuscript Reviewer / Рецензент
 - [Journal of Applied Geophysics (Q2)](https://www.journals.elsevier.com/journal-of-applied-geophysics)
+- [International Journal of Applied Mechanics (Q2)](https://www.worldscientific.com/worldscinet/ijam)
 
 ## Dissertation Reviewer / Отзывы на диссертации
 - [Муртазин Дамир Гумарович](https://npf-geofizika.ru/services/aspirantura/dissertatsionnyy-sovet/obyavleniya-o-zashchite/murtazin-damir-gumarovich/)
