@@ -54,5 +54,5 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 - [Осень, 2021-2022](./courses/courses.md)
 
 ## Some Papers / Избранные статьи
-- [Simulation of Seismic Wave Propagationin a Multicomponent Oil Deposit Model](https://www.worldscientific.com/doi/epdf/10.1142/S1758825120500842)
 - [Simulation of Seismic Waves in Anisotropic Media, 2021](https://rdcu.be/cws7w)
+- [Simulation of Seismic Wave Propagationin a Multicomponent Oil Deposit Model, 2020](https://www.worldscientific.com/doi/epdf/10.1142/S1758825120500842)
