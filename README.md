@@ -51,7 +51,8 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 - [Петров И.Б., чл.-корр. РАН](https://scholar.google.ru/citations?user=OYmiq5sAAAAJ&hl=ru) - Московский физико-технический институт, Долгопрудный, Россия
 
 ## Taught Courses / Читаемые курсы
-- [Осень, 2021-2022](./courses/courses.md)
+- [Осень, 2021](./courses/courses_2021_autumn.md)
+- [Весна, 2022](./courses/courses_2022_spring.md)
 
 ## Some Papers / Избранные статьи
 - [Simulation of Seismic Waves in Anisotropic Media, 2021](https://rdcu.be/cws7w)
