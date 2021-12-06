@@ -21,6 +21,9 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 - Golubev V.I. [The grid-characteristic method for applied dynamic problems](https://indico.jinr.ru/event/1086/contributions/13081/) // [9th International Conference "Distributed Computing and Grid Technologies in Science and Education (GRID'2021)"](https://indico.jinr.ru/event/1086/), 5-9 июля 2021, Дубна, Россия.
 - Голубев В.И. Математическое моделирование процесса распространения сейсмических волн в сложно построенных геологических средах // [Международная конференция «Квазилинейные уравнения, обратные задачи и их приложения» (QIPA-2021)](https://sochisirius.ru/obuchenie/graduates/smena1001/4827), 23-29 августа 2021, Сириус, Сочи, Россия.
 
+## Invited Lector / Приглашенный лектор
+- Dynamic Problems in Spatially Heterogeneous Media: The Grid-Characteristic Method // One Week online AICTE Sponsored ATAL Faculty Development Program on "New Approaches in Geotechnical Earthquake Engineering", 6-10 декабря 2021, Indore, India.
+
 ## Awards / Награды
 - [Research Excellence Award Russia 2021](https://elsevierscience.ru/news/research_excellence_award2021/)
 - [Медаль РАН молодым учёным](https://scientificrussia.ru/articles/vruchenie-premij-i-medalej-rossijskoj-akademii-nauk-molodym-uchenym-i-studentam-rossii/)
