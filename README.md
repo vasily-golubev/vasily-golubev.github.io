@@ -22,6 +22,7 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 - Голубев В.И. Математическое моделирование процесса распространения сейсмических волн в сложно построенных геологических средах // [Международная конференция «Квазилинейные уравнения, обратные задачи и их приложения» (QIPA-2021)](https://sochisirius.ru/obuchenie/graduates/smena1001/4827), 23-29 августа 2021, Сириус, Сочи, Россия.
 
 ## Invited Lector / Приглашенный лектор
+- [Конгресс молодых учёных](http://photo.roscongress.org/ru/101/albums), 8-10 декабря 2021, Сириус, Сочи.
 - Dynamic Problems in Spatially Heterogeneous Media: The Grid-Characteristic Method // One Week online AICTE Sponsored ATAL Faculty Development Program on "New Approaches in Geotechnical Earthquake Engineering", 6-10 декабря 2021, Indore, India.
 
 ## Awards / Награды
