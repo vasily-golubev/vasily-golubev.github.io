@@ -24,6 +24,7 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 ## Invited Lector / Приглашенный лектор
 - [Конгресс молодых учёных](http://photo.roscongress.org/ru/101/albums), 8-10 декабря 2021, Сириус, Сочи.
 - Dynamic Problems in Spatially Heterogeneous Media: The Grid-Characteristic Method // One Week online AICTE Sponsored ATAL Faculty Development Program on "New Approaches in Geotechnical Earthquake Engineering", 6-10 декабря 2021, Indore, India.
+- The Grid-Characteristic Numerical Method and Its Application to Seismic Wave Problems // Online course at Institute of Engineering and Science IPS Academy, 01-22 February 2022, Indore, India.
 
 ## Awards / Награды
 - [Research Excellence Award Russia 2021](https://elsevierscience.ru/news/research_excellence_award2021/)
