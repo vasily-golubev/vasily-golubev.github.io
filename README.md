@@ -60,5 +60,6 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 - [Весна, 2022](./courses/courses_2022_spring.md)
 
 ## Some Papers / Избранные статьи
+- [Explicit-Implicit Schemes for Calculating the Dynamics of Layered Media with Nonlinear Conditions at Contact Boundaries, 2021](http://elib.sfu-kras.ru/bitstream/handle/2311/144769/nikitin+.pdf?sequence=1)
 - [Simulation of Seismic Waves in Anisotropic Media, 2021](https://rdcu.be/cws7w)
 - [Simulation of Seismic Wave Propagationin a Multicomponent Oil Deposit Model, 2020](https://www.worldscientific.com/doi/epdf/10.1142/S1758825120500842)
