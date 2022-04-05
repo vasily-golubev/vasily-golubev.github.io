@@ -13,6 +13,7 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 - [Society of Petroleum Engineers (SPE)](https://www.spe.org/)
 
 ## Conferences / Конференции
+- Голубев В.И. Сеточно-характеристический метод в задачах сейсмической разведки // [V Международная геолого-геофизическая конференция "ГеоЕвразия-2022. Геологоразведочные технологии - наука и бизнес"](https://2022.gece.moscow/), 30 марта - 01 апреля 2022, Москва, Россия.
 - Shevchenko A.V., Golubev V.I. Approximation Order Raising of the Grid-Characteristic Method for Two-Dimensional Acoustic Problems by High-Order Splitting Techniques // [Smart Computational Methods in Continuum Mechanics](https://cmcm2021.mipt.ru), 27-29 октября 2021, Долгопрудный, Россия.
 - Golubev V.I., Nikitin I.S. Simulation of Layered Media with Nonlinear Contact Boundary Conditions // [Smart Computational Methods in Continuum Mechanics](https://cmcm2021.mipt.ru), 27-29 октября 2021, Долгопрудный, Россия.
 - Golubev V., Shevchenko A. Explicit Simulation of Seismic Waves in Fractured VTI Media // [82-nd EAGE Annual Conference & Exhibition](https://eage.eventsair.com/eageannual2021/), 18-21 October 2021, Amsterdam, Netherlands.
