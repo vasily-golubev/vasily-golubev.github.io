@@ -27,6 +27,7 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 - [Dynamic Problems in Spatially Heterogeneous Media: The Grid-Characteristic Method // One Week online AICTE Sponsored ATAL Faculty Development Program on "New Approaches in Geotechnical Earthquake Engineering"](https://youtu.be/SqjgsFEhEso), 6-10 декабря 2021, Indore, India.
 - [The Grid-Characteristic Numerical Method and Its Application to Seismic Wave Problems // Online course at Institute of Engineering and Science IPS Academy](https://www.youtube.com/watch?v=IhW4IMRWcfI&t=1251s), 01-22 February 2022, Indore, India.
 - [Научный семинар "Прикладные обратные задачи и искусственный интеллект"](https://www.youtube.com/watch?v=QBynk6rF7KE), 15 March 2022, Online.
+- Голубев В.И. "Математическое моделирование процесса сейсморазведки с учётом различия реологических свойств отдельных частей геологического массива", научный семинар "Проблемы математического и численного моделирования", 05 April 2022, Online.
 
 ## Awards / Награды
 - [Research Excellence Award Russia 2021](https://elsevierscience.ru/news/research_excellence_award2021/)
