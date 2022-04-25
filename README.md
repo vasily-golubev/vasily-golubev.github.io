@@ -28,6 +28,7 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 - [The Grid-Characteristic Numerical Method and Its Application to Seismic Wave Problems // Online course at Institute of Engineering and Science IPS Academy](https://www.youtube.com/watch?v=IhW4IMRWcfI&t=1251s), 01-22 February 2022, Indore, India.
 - [Научный семинар "Прикладные обратные задачи и искусственный интеллект"](https://www.youtube.com/watch?v=QBynk6rF7KE), 15 March 2022, Online.
 - Голубев В.И. "Математическое моделирование процесса сейсморазведки с учётом различия реологических свойств отдельных частей геологического массива", научный семинар "Проблемы математического и численного моделирования", 05 April 2022, Online.
+- Голубев В.И. "Математическое моделирование процесса сейсморазведки с учётом различия реологических свойств отдельных частей геологического массива", научный семинар в института автоматизации проектирования РАН, 26 April 2022, ИАП РАН, Москва.
 
 ## Awards / Награды
 - [Research Excellence Award Russia 2021](https://elsevierscience.ru/news/research_excellence_award2021/)
