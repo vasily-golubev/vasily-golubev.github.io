@@ -65,6 +65,7 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 - [Осень, 2021](./courses/courses_2021_autumn.md)
 - [Весна, 2022](./courses/courses_2022_spring.md)
 - [Осень, 2022](./courses/courses_2022_autumn.md)
+- [Весна, 2023](./courses/courses_2023_spring.md)
 
 ## Some Papers / Избранные статьи
 - [Explicit-Implicit Schemes for Calculating the Dynamics of Layered Media with Nonlinear Conditions at Contact Boundaries, 2021](http://elib.sfu-kras.ru/bitstream/handle/2311/144769/nikitin+.pdf?sequence=1)
