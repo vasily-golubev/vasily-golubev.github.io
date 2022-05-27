@@ -13,6 +13,8 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 - [Society of Petroleum Engineers (SPE)](https://www.spe.org/)
 
 ## Conferences / Конференции
+- Петров И.Б., Голубев В.И., Фаворская А.В., Хохлов Н.И.Численный расчёт динамических процессов в гетерогенных геологических средах // [VII Всероссийская научная конференция «Проблемы военно-прикладной геофизики и 
+контроля состояния природной среды»](https://vka.mil.ru/Konferenc/VII-Vserossijskaya-nauchnaya-konferenciy), 24-26 мая 2022, Санкт-Петербург.
 - Голубев В.И. Сеточно-характеристический метод в задачах сейсмической разведки // [V Международная геолого-геофизическая конференция "ГеоЕвразия-2022. Геологоразведочные технологии - наука и бизнес"](https://2022.gece.moscow/), 30 марта - 01 апреля 2022, Москва, Россия.
 - Shevchenko A.V., Golubev V.I. Approximation Order Raising of the Grid-Characteristic Method for Two-Dimensional Acoustic Problems by High-Order Splitting Techniques // [Smart Computational Methods in Continuum Mechanics](https://cmcm2021.mipt.ru), 27-29 октября 2021, Долгопрудный, Россия.
 - Golubev V.I., Nikitin I.S. Simulation of Layered Media with Nonlinear Contact Boundary Conditions // [Smart Computational Methods in Continuum Mechanics](https://cmcm2021.mipt.ru), 27-29 октября 2021, Долгопрудный, Россия.
