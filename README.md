@@ -32,6 +32,7 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 - [Научный семинар "Прикладные обратные задачи и искусственный интеллект"](https://www.youtube.com/watch?v=QBynk6rF7KE), 15 March 2022, Online.
 - Голубев В.И. "Математическое моделирование процесса сейсморазведки с учётом различия реологических свойств отдельных частей геологического массива", научный семинар "Проблемы математического и численного моделирования", 05 April 2022, Online.
 - Голубев В.И. "Математическое моделирование процесса сейсморазведки с учётом различия реологических свойств отдельных частей геологического массива", научный семинар в института автоматизации проектирования РАН, 26 April 2022, ИАП РАН, Москва.
+- Голубев В.И. ["Continuum models of layered media in direct and inverse seismic problems"](https://qipa2022.mipt.ru/home), 22-26 августа 2022, Сириус, Сочи.
 
 ## Awards / Награды
 - [Research Excellence Award Russia 2021](https://elsevierscience.ru/news/research_excellence_award2021/)
