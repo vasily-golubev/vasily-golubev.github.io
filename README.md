@@ -13,6 +13,7 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 - [Society of Petroleum Engineers (SPE)](https://www.spe.org/)
 
 ## Conferences / Конференции
+- Golubev V.I., Nikitin I.S., Vasyukov A.V., Petrov I.B., Nikitin A.D. Fractured inclusion localization and characterization based on deep convolutional neural networks // [International Conference on  Materials Structure and Micromechanics of Fracture (MSMF10)](https://msmf.fme.vutbr.cz/msmf10/), 12-13 September, Brno, Czech Republic.
 - Голубев В.И., Голубева Ю.А., Никитин И.С. Явно-неявные схемы повышенного порядка аппроксимации для расчета анизотропных вязкопластических сред // [XIV Международная конференция по Прикладной математике и механике в аэрокосмической отрасли (AMMAI'2022)](http://www.npnj.ru/), 4-13 сентября 2022, Алушта, Крым.
 - Никитин И.С., Голубев В.И., Скубачевский А.А. Схемы повышенного порядка аппроксимации для расчета динамики вязкопластических сред // [Всероссийская научная конференция «Теоретические основы конструирования численных алгоритмов и решение задач математической физики», посвященная памяти К.И. Бабенко](http://agora.guru.ru/babenko), 24-26 августа 2022, Пущино, Россия.
 - Никитин И.С., Голубев В.И., Хохлов Н.И., Миряха В.А. Численное моделирование сейсмических откликов от трещиноватых геологических слоёв // [V Международная конференция «Суперкомпьютерные технологии математического моделирования»](http://multiscalemr.ru/ru/sctemm_2022/), 27-30 июня 2022, Москва, Россия.
