@@ -52,6 +52,7 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 - [Фонд содействия инновациям](https://fasie.ru)
 - [Дирекция научно-технических программ](http://fcntp.ru)
 - [A honorable member of Advisory Board of Civil Engineering Department, IPS Academy, Institute of Engineering & Science, Indore](https://ies.ipsacademy.org/)
+- [Мероприятие-спутник Конгресса молодых учёных «Создание систем комплексного мониторинга и технологий прогнозирования извержений вулканов Авачинской и Мутновской групп»](https://xn--80aaa1bck7bzb.xn--80aa3ak5a.xn--p1ai/), 21-23 сентября 2022, Петропавловск-Камчатский, Россия.
 
 ## Manuscript Reviewer / Рецензент
 - [Journal of Applied Geophysics (Q2)](https://www.journals.elsevier.com/journal-of-applied-geophysics)
