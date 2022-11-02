@@ -6,6 +6,8 @@ Associate Professor and Senior Researcher at [Moscow Institute of Physics and Te
 
 [Email](mailto:w.golubev@mail.ru), [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=56290013800), [ResearchGate](https://www.researchgate.net/profile/Vasily-Golubev-2), [GitHub](https://github.com/vasily-golubev)
 
+English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplecert.org/Badge/en/F2F34091-3B75-4661-AAB2-EAFCC5DF8C73), [Speaking](https://badges.peoplecert.org/Badge/en/50F39DFD-FD8E-4F9C-92E1-64A556EB307E)
+
 ## Community Membership / Сообщества
 
 - [European Association of Geoscientists and Engineers (EAGE)](https://eage.org/)
