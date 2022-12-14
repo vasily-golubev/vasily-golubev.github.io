@@ -57,6 +57,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [A honorable member of Advisory Board of Civil Engineering Department, IPS Academy, Institute of Engineering & Science, Indore](https://ies.ipsacademy.org/)
 - [Мероприятие-спутник Конгресса молодых учёных «Создание систем комплексного мониторинга и технологий прогнозирования извержений вулканов Авачинской и Мутновской групп»](https://xn--80aaa1bck7bzb.xn--80aa3ak5a.xn--p1ai/), 21-23 сентября 2022, Петропавловск-Камчатский, Россия.
 - [Кейс-чемпионат СКОЛКОВО и МФТИ](https://www.skolkovo.ru/events/kejs-chempionat-skolkovo-i-mfti/), 20 ноября 2022, Сколково, Россия.
+- [Добровольный квалификационный экзамен 2022. Python-разработчик](https://dke.moscow/), 14 декабря 2022, Москва, Россия.
 
 ## Manuscript Reviewer / Рецензент
 - [Journal of Applied Geophysics (Q2)](https://www.journals.elsevier.com/journal-of-applied-geophysics)
