@@ -15,6 +15,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Society of Petroleum Engineers (SPE)](https://www.spe.org/)
 
 ## Conferences / Конференции
+- Шевченко А.В., Голубев В.И. Двумерные сеточно-характеристические схемы для расчёта акустических и упругих волн // [ТРИДЦАТАЯ МЕЖДУНАРОДНАЯ КОНФЕРЕНЦИЯ "МАТЕМАТИКА. КОМПЬЮТЕР. ОБРАЗОВАНИЕ"](http://www.mce.su/rus/presentations/p435657/), 23–27 января 2023, Пущино, Россия.
 - Васюков А.В., Никитин И.С., Голубев В.И. Глубокие свёрточные нейронные сети в задачах разведочной геофизики // [Минисимпозиум «Задачи механики деформируемых сред с поверхностями раздела»](http://conf.ict.nsc.ru/mdm22/ru), 26-28 сентября 2022, Красноярск, Россия.
 - Golubev V.I., Nikitin I.S., Vasyukov A.V., Petrov I.B., Nikitin A.D. Fractured inclusion localization and characterization based on deep convolutional neural networks // [International Conference on  Materials Structure and Micromechanics of Fracture (MSMF10)](https://msmf.fme.vutbr.cz/msmf10/), 12-13 September, Brno, Czech Republic.
 - Голубев В.И., Голубева Ю.А., Никитин И.С. Явно-неявные схемы повышенного порядка аппроксимации для расчета анизотропных вязкопластических сред // [XIV Международная конференция по Прикладной математике и механике в аэрокосмической отрасли (AMMAI'2022)](http://www.npnj.ru/), 4-13 сентября 2022, Алушта, Крым.
