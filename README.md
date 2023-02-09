@@ -44,6 +44,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - Голубев В.И. "Численные и экспериментальные исследования динамических процессов в задачах сейсмической разведки и сейсмостойкости" // Двенадцатое заседание совместной рабочей группы по сотрудничеству в области науки и технологий между Индией и Россией, 11 января 2023, Московский государственный лингвистический университет, Москва.
 - Голубев В.И. "Математическое моделирование" // [Образовательная программа "SKOLKOVO Start"](https://www.skolkovo.ru/events/skolkovo-start/), 14-15 января 2023, Школа управления СКОЛКОВО, Москва.
 - Голубев В.И. "Численное моделирование процесса сейсмической разведки на Арктическом шельфе" // [ТРИДЦАТАЯ МЕЖДУНАРОДНАЯ КОНФЕРЕНЦИЯ "МАТЕМАТИКА. КОМПЬЮТЕР. ОБРАЗОВАНИЕ"](http://www.mce.su/rus/), 23 – 27 января 2023, Пущино, Россия.
+- Golubev V.I. "HPC simulations and experimental investigation of dynamic processes in seismic survey and earthquake resistance problems" // Scientific Conference dedicated to the DAY OF RUSSIAN SCIENCE "Joint Russian-Indian Interdisciplinary Research", 8 February 2023, Russian Academy of Sciences (online).
 
 ## Awards / Награды
 - [Research Excellence Award Russia 2021](https://elsevierscience.ru/news/research_excellence_award2021/)
