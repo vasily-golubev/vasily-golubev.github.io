@@ -89,6 +89,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Весна, 2023](./courses/courses_2023_spring.md)
 
 ## Some Papers / Избранные статьи
+- [Numerical Modeling of Acoustic Processes in Gradient Media Using the Grid-Characteristic Method, 2023](https://rdcu.be/c7TPU)
 - [Deep Convolutional Neural Networks in Seismic Exploration Problems, 2022](https://www.dl.begellhouse.com/journals/728e68e739b67efe,forthcoming,46367.html)
 - [Continuum model of fractured media in direct and inverse seismic problems, 2022](https://rdcu.be/cViIO)
 - [Explicit-Implicit Schemes for Calculating the Dynamics of Layered Media with Nonlinear Conditions at Contact Boundaries, 2021](http://elib.sfu-kras.ru/bitstream/handle/2311/144769/nikitin+.pdf?sequence=1)
