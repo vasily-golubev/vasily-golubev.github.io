@@ -15,6 +15,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Society of Petroleum Engineers (SPE)](https://www.spe.org/)
 
 ## Conferences / Конференции
+- Голубев В.И., Епифанов В.П., Гусева Е.К., Петров И.Б., Халид В. Численные и экспериментальные исследования реологии льда при динамическом воздействии [VI Всероссийская научно-практическая конференция с международным участием «ПОЛЯРНАЯ МЕХАНИКА»](https://www.nntu.ru/content/nauka/konferencii-seminary-forumy-i-olimpiady/cont/polar-mech), 23-24 марта 2023, Нижний Новгород, Россия.
 - Шевченко А.В., Голубев В.И. Двумерные сеточно-характеристические схемы для расчёта акустических и упругих волн // [ТРИДЦАТАЯ МЕЖДУНАРОДНАЯ КОНФЕРЕНЦИЯ "МАТЕМАТИКА. КОМПЬЮТЕР. ОБРАЗОВАНИЕ"](http://www.mce.su/rus/presentations/p435657/), 23–27 января 2023, Пущино, Россия.
 - Васюков А.В., Никитин И.С., Голубев В.И. Глубокие свёрточные нейронные сети в задачах разведочной геофизики // [Минисимпозиум «Задачи механики деформируемых сред с поверхностями раздела»](http://conf.ict.nsc.ru/mdm22/ru), 26-28 сентября 2022, Красноярск, Россия.
 - Golubev V.I., Nikitin I.S., Vasyukov A.V., Petrov I.B., Nikitin A.D. Fractured inclusion localization and characterization based on deep convolutional neural networks // [International Conference on  Materials Structure and Micromechanics of Fracture (MSMF10)](https://msmf.fme.vutbr.cz/msmf10/), 12-13 September, Brno, Czech Republic.
