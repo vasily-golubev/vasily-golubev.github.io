@@ -49,6 +49,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - Golubev V.I. "HPC simulations and experimental investigation of dynamic processes in seismic survey and earthquake resistance problems" // Scientific Conference dedicated to the DAY OF RUSSIAN SCIENCE "Joint Russian-Indian Interdisciplinary Research", 8 February 2023, Russian Academy of Sciences (online).
 
 ## Awards / Награды
+- [One of the most cited publications in International Journal of Applied Mechanics (IJAM), for the year 2022](https://www.worldscientific.com/doi/10.1142/S1758825122500028)
 - [Research Excellence Award Russia 2021](https://elsevierscience.ru/news/research_excellence_award2021/)
 - [Медаль РАН молодым учёным](https://scientificrussia.ru/articles/vruchenie-premij-i-medalej-rossijskoj-akademii-nauk-molodym-uchenym-i-studentam-rossii/)
 
