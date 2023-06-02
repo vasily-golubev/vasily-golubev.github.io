@@ -91,6 +91,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Весна, 2022](./courses/courses_2022_spring.md)
 - [Осень, 2022](./courses/courses_2022_autumn.md)
 - [Весна, 2023](./courses/courses_2023_spring.md)
+- [Осень, 2023](./courses/courses_2023_autumn.md)
 
 ## Some Papers / Избранные статьи
 - [Linear, Quasi-Monotonic and Hybrid Grid-Characteristic Schemes for Hyperbolic Equations, 2023](https://rdcu.be/dcodJ)
