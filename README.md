@@ -94,6 +94,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Осень, 2023](./courses/courses_2023_autumn.md)
 
 ## Some Papers / Избранные статьи
+- [Linear Quasi-Monotone and Hybrid Grid-Characteristic Schemes for the Numerical Solution of Linear Acoustic Problems, 2023](https://rdcu.be/dgCpG)
 - [Linear, Quasi-Monotonic and Hybrid Grid-Characteristic Schemes for Hyperbolic Equations, 2023](https://rdcu.be/dcodJ)
 - [Numerical Modeling of Acoustic Processes in Gradient Media Using the Grid-Characteristic Method, 2023](https://rdcu.be/c7TPU)
 - [Deep Convolutional Neural Networks in Seismic Exploration Problems, 2022](https://www.dl.begellhouse.com/journals/728e68e739b67efe,forthcoming,46367.html)
