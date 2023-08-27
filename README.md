@@ -94,6 +94,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Осень, 2023](./courses/courses_2023_autumn.md)
 
 ## Some Papers / Избранные статьи
+- [Explicit–Implicit Schemes for Calculating the Dynamics of Elastoviscoplastic Media with a Short Relaxation Time, 2023](https://rdcu.be/dkf26)
 - [Linear Quasi-Monotone and Hybrid Grid-Characteristic Schemes for the Numerical Solution of Linear Acoustic Problems, 2023](https://rdcu.be/dgCpG)
 - [Linear, Quasi-Monotonic and Hybrid Grid-Characteristic Schemes for Hyperbolic Equations, 2023](https://rdcu.be/dcodJ)
 - [Numerical Modeling of Acoustic Processes in Gradient Media Using the Grid-Characteristic Method, 2023](https://rdcu.be/c7TPU)
