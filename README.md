@@ -76,6 +76,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 
 ## Dissertation Reviewer / Отзывы на диссертации
 - [Жавхлан Саруул](https://mgsu.ru/science/Dissoveti/Zashita_dissert/52898/)
+- [Рогозин Александр Викторович](https://mipt.ru/education/post-graduate/rogozin-aleksandr-viktorovich.php)
 - [Муртазин Дамир Гумарович](https://npf-geofizika.ru/services/aspirantura/dissertatsionnyy-sovet/obyavleniya-o-zashchite/murtazin-damir-gumarovich/)
 - [Моисеева Юлия Александровна](http://earchive.tpu.ru/handle/11683/52813)
 - [Пургина Дарья Валерьевна](http://earchive.tpu.ru/bitstream/11683/52814/1/thesis_tpu-2018-38.pdf)
