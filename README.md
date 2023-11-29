@@ -16,6 +16,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 
 ## Conferences / Конференции
 - Голубев В.И., Петров И.Б. Континуальные модели механики сплошных сред в задачах поисковой сейсморазведки // Научно-практическая конференция "Инновационные решения в геологии и разработке ТРИЗ", 8-10 ноября 2023, Москва, Россия.
+- Golubev V.I. Novel Continuum Models of Fractured Media: Dynamic Problems // Совместный научный семинар с Xi'an Jiaotong University, 21 ноября 2023 года, Пекин, Китай.
 - Golubev V.I. Improved Continuum Models of Fractured Media // [Третий Китайско-Российский Научно-Технический форум «Наукоёмкие технологии: от науки к внедрению»](http://www.international.hit.edu.cn/post/index/214), 22-26 октября 2023, Харбин, Китай.
 - Голубев В.И., Епифанов В.П., Гусева Е.К., Петров И.Б., Халид В. Численные и экспериментальные исследования реологии льда при динамическом воздействии // [VI Всероссийская научно-практическая конференция с международным участием «ПОЛЯРНАЯ МЕХАНИКА»](https://www.nntu.ru/content/nauka/konferencii-seminary-forumy-i-olimpiady/cont/polar-mech), 23-24 марта 2023, Нижний Новгород, Россия.
 - Гусева Е.К., Голубев В.И., Муратов М.В., Петров И.Б. Создание моделей для численного решения прямых задач сейсморазведки в условиях вечной мерзлоты // [VI Всероссийская научно-практическая конференция с международным участием «ПОЛЯРНАЯ МЕХАНИКА»](https://www.nntu.ru/content/nauka/konferencii-seminary-forumy-i-olimpiady/cont/polar-mech), 23-24 марта 2023, Нижний Новгород, Россия.
@@ -49,6 +50,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - Голубев В.И. "Математическое моделирование" // [Образовательная программа "SKOLKOVO Start"](https://www.skolkovo.ru/events/skolkovo-start/), 14-15 января 2023, Школа управления СКОЛКОВО, Москва.
 - Голубев В.И. ["Численное моделирование процесса сейсмической разведки на Арктическом шельфе"](https://youtu.be/bH8ThkmPjLg) // [ТРИДЦАТАЯ МЕЖДУНАРОДНАЯ КОНФЕРЕНЦИЯ "МАТЕМАТИКА. КОМПЬЮТЕР. ОБРАЗОВАНИЕ"](http://www.mce.su/rus/), 23 – 27 января 2023, Пущино, Россия.
 - Golubev V.I. "HPC simulations and experimental investigation of dynamic processes in seismic survey and earthquake resistance problems" // Scientific Conference dedicated to the DAY OF RUSSIAN SCIENCE "Joint Russian-Indian Interdisciplinary Research", 8 February 2023, Russian Academy of Sciences (online).
+- Golubev V.I. "Some aspects of the grid-characteristic methods for the dynamic deformation problems" // International Conference “Numerical Methods and Experimental Techniques for Sustainable and Disaster Resilient Infrastructure”, 8-9 September, Indore, India.
 
 ## Awards / Награды
 - [One of the most cited publications in International Journal of Applied Mechanics (IJAM), for the year 2022](https://www.worldscientific.com/doi/10.1142/S1758825122500028)
