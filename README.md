@@ -15,6 +15,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Society of Petroleum Engineers (SPE)](https://www.spe.org/)
 
 ## Conferences / Конференции
+- Shevchenko A.V., Golubev V.I. Investigation of Reverse-Time Migration for acoustic and elastic models // Quasilinear Equations, Inverse Problems and Their Applications 2023, 4-6 December 2023, Dolgoprudny, Russia.
 - Голубев В.И., Петров И.Б., Беклемышева К.А., Васюков А.В. Численное моделирование воздействия динамических нагрузок на конструкционные материалы и инженерные конструкции в Арктической зоне Российской Федерации // III Международная конференция «Материалы и технологии для Арктики», 5-6 декабря 2023, г. Санкт-Петербург, п. Стрельна, Россия.
 - Голубев В.И., Петров И.Б. Континуальные модели механики сплошных сред в задачах поисковой сейсморазведки // Научно-практическая конференция "Инновационные решения в геологии и разработке ТРИЗ", 8-10 ноября 2023, Москва, Россия.
 - Golubev V.I. Novel Continuum Models of Fractured Media: Dynamic Problems // Совместный научный семинар с Xi'an Jiaotong University, 21 ноября 2023 года, Пекин, Китай.
@@ -72,6 +73,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Кейс-чемпионат СКОЛКОВО и МФТИ](https://www.skolkovo.ru/events/kejs-chempionat-skolkovo-i-mfti/), 20 ноября 2022, Сколково, Россия.
 - [Добровольный квалификационный экзамен 2022. Python-разработчик](https://dke.moscow/), 14 декабря 2022, Москва, Россия.
 - [Научная премия Сбера](https://promo.sber.ru/sberscienceaward), 2023.
+- Эксперт на финале программы УМНИК-МФТИ-2023, 8 декабря 2023, Долгопрудный, Россия.
 
 ## Manuscript Reviewer / Рецензент
 - [Journal of Applied Geophysics (Q2)](https://www.journals.elsevier.com/journal-of-applied-geophysics)
