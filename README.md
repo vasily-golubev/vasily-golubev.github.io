@@ -104,6 +104,8 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 
 ## Some Papers / Избранные статьи
 - [Model of fractured medium and nondestructive control of composite materials, 2023](https://www.sciencedirect.com/science/article/pii/S1000936123004077)
+- [Refined Schemes for Computing the Dynamics of Elastoviscoplastic Media, 2023](https://rdcu.be/drjdJ)
+- [Boundary and Contact Conditions of Higher Order of Accuracy for Grid-Characteristic Schemes in Acoustic Problems, 2023](https://rdcu.be/drjdE)
 - [Explicit–Implicit Schemes for Calculating the Dynamics of Elastoviscoplastic Media with a Short Relaxation Time, 2023](https://rdcu.be/dkf26)
 - [Linear Quasi-Monotone and Hybrid Grid-Characteristic Schemes for the Numerical Solution of Linear Acoustic Problems, 2023](https://rdcu.be/dgCpG)
 - [Linear, Quasi-Monotonic and Hybrid Grid-Characteristic Schemes for Hyperbolic Equations, 2023](https://rdcu.be/dcodJ)
