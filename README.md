@@ -83,6 +83,12 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - EAGE Annual Conference & Exhibition (2021-2023)
 
 ## Dissertation Reviewer / Отзывы на диссертации
+- [Рашид Бадер](https://mipt.ru/education/post-graduate/rashid-bader.php)
+- [Остроухов Петр Алексеевич](https://mipt.ru/education/post-graduate/ostroukhov-petr-alekseevich.php)
+- [Смирнова Надежда Сергеевна](https://mipt.ru/education/post-graduate/smirnova-nadezhda-sergeevna.php)
+- [Переберина Анастасия Александровна](https://mipt.ru/education/post-graduate/pereberina-anastasiya-aleksandrovna.php)
+- [Стецюк Владислав](https://mipt.ru/education/post-graduate/stetsyuk-vladislav.php)
+- [Митьковец Иван Анатольевич](https://mipt.ru/education/post-graduate/mitkovets-ivan-anatolevich.php)
 - [Жавхлан Саруул](https://mgsu.ru/science/Dissoveti/Zashita_dissert/52898/)
 - [Рогозин Александр Викторович](https://mipt.ru/education/post-graduate/rogozin-aleksandr-viktorovich.php)
 - [Муртазин Дамир Гумарович](https://npf-geofizika.ru/services/aspirantura/dissertatsionnyy-sovet/obyavleniya-o-zashchite/murtazin-damir-gumarovich/)
