@@ -107,6 +107,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Осень, 2022](./courses/courses_2022_autumn.md)
 - [Весна, 2023](./courses/courses_2023_spring.md)
 - [Осень, 2023](./courses/courses_2023_autumn.md)
+- [Весна, 2024](./courses/courses_2024_spring.md)
 
 ## Some Papers / Избранные статьи
 - [Model of fractured medium and nondestructive control of composite materials, 2023](https://www.sciencedirect.com/science/article/pii/S1000936123004077)
