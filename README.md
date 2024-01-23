@@ -1,8 +1,8 @@
 # Vasily Golubev / Василий Иванович Голубев
 
-Associate Professor and Leading Researcher at [Moscow Institute of Physics and Technology](https://mipt.ru), [Doctor of Science (2022)](https://mipt.ru/education/post-graduate/golubev-vasiliy-ivanovich.php), [PhD (2014)](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Golubev_Vasiliy_Ivanovich)
+Professor and Leading Researcher at [Moscow Institute of Physics and Technology](https://mipt.ru), [Doctor of Science (2022)](https://mipt.ru/education/post-graduate/golubev-vasiliy-ivanovich.php), [PhD (2014)](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Golubev_Vasiliy_Ivanovich)
 
-Доцент и ведущий научный сотрудник в [Московском физико-техническом институте](https://mipt.ru), [д.ф.-м.н. (2022)](https://mipt.ru/education/post-graduate/golubev-vasiliy-ivanovich.php), [к.ф.-м.н. (2014)](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Golubev_Vasiliy_Ivanovich)
+Профессор и ведущий научный сотрудник в [Московском физико-техническом институте](https://mipt.ru), [д.ф.-м.н. (2022)](https://mipt.ru/education/post-graduate/golubev-vasiliy-ivanovich.php), [к.ф.-м.н. (2014)](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Golubev_Vasiliy_Ivanovich)
 
 [Email](mailto:w.golubev@mail.ru), [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=56290013800), [ResearchGate](https://www.researchgate.net/profile/Vasily-Golubev-2), [GitHub](https://github.com/vasily-golubev)
 
