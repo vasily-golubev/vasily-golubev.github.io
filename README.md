@@ -110,6 +110,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Весна, 2024](./courses/courses_2024_spring.md)
 
 ## Some Papers / Избранные статьи
+- [Numerical Schemes of Higher Approximation Orders for Dynamic Problems of Elastoviscoplastic Media, 2024](https://elib.sfu-kras.ru/bitstream/handle/2311/152459/Golubev_n.pdf?sequence=1)
 - [Model of fractured medium and nondestructive control of composite materials, 2023](https://www.sciencedirect.com/science/article/pii/S1000936123004077)
 - [Refined Schemes for Computing the Dynamics of Elastoviscoplastic Media, 2023](https://rdcu.be/drjdJ)
 - [Boundary and Contact Conditions of Higher Order of Accuracy for Grid-Characteristic Schemes in Acoustic Problems, 2023](https://rdcu.be/drjdE)
