@@ -125,3 +125,6 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Explicit-Implicit Schemes for Calculating the Dynamics of Layered Media with Nonlinear Conditions at Contact Boundaries, 2021](http://elib.sfu-kras.ru/bitstream/handle/2311/144769/nikitin+.pdf?sequence=1)
 - [Simulation of Seismic Waves in Anisotropic Media, 2021](https://rdcu.be/cws7w)
 - [Simulation of Seismic Wave Propagationin a Multicomponent Oil Deposit Model, 2020](https://www.worldscientific.com/doi/epdf/10.1142/S1758825120500842)
+
+## HPC Systems / Используемые супер-ЭВМ
+- [ЦКП ИПМ РАН](https://www.kiam.ru/MVS/access/)
