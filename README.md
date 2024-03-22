@@ -75,6 +75,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Добровольный квалификационный экзамен 2022. Python-разработчик](https://dke.moscow/), 14 декабря 2022, Москва, Россия.
 - [Научная премия Сбера](https://promo.sber.ru/sberscienceaward), 2023.
 - Эксперт на финале программы УМНИК-МФТИ-2023, 8 декабря 2023, Долгопрудный, Россия.
+- Эксперт заочного этапа конференции [Наука для жизни](https://bmstu.ru/bachelor/nauka-o-zhizni), 2024.
 
 ## Manuscript Reviewer / Рецензент
 - [Journal of Applied Geophysics (Q2)](https://www.journals.elsevier.com/journal-of-applied-geophysics)
