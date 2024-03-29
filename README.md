@@ -82,7 +82,8 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [International Journal of Applied Mechanics (Q2)](https://www.worldscientific.com/worldscinet/ijam)
 - [Materials Physics and Mechanics (Q3)](https://mpm.spbstu.ru/)
 - [Компьютерные исследования и моделирование (Q3)](http://crm.ics.org.ru/)
-- EAGE Annual Conference & Exhibition (2021-2023)
+- EAGE Annual Conference & Exhibition (2021-2024)
+- [Mathematical Modelling of Natural Phenomena (Q2)](https://www2.cloud.editorialmanager.com/mmnp/default2.aspx)
 
 ## Dissertation Reviewer / Отзывы на диссертации
 - [Рашид Бадер](https://mipt.ru/education/post-graduate/rashid-bader.php)
