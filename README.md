@@ -15,7 +15,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Society of Petroleum Engineers (SPE)](https://www.spe.org/)
 
 ## Conferences / Конференции
-- Shevchenko A.V., Golubev V.I. Investigation of Reverse-Time Migration for acoustic and elastic models // Quasilinear Equations, Inverse Problems and Their Applications 2023, 4-6 December 2023, Dolgoprudny, Russia.
+- Shevchenko A.V., Golubev V.I. [Investigation of Reverse-Time Migration for acoustic and elastic models](https://www.mathnet.ru/php/presentation.phtml?option_lang=rus&presentid=42164) // Quasilinear Equations, Inverse Problems and Their Applications 2023, 4-6 December 2023, Dolgoprudny, Russia.
 - Голубев В.И., Петров И.Б., Беклемышева К.А., Васюков А.В. Численное моделирование воздействия динамических нагрузок на конструкционные материалы и инженерные конструкции в Арктической зоне Российской Федерации // III Международная конференция «Материалы и технологии для Арктики», 5-6 декабря 2023, г. Санкт-Петербург, п. Стрельна, Россия.
 - Голубев В.И., Петров И.Б. Континуальные модели механики сплошных сред в задачах поисковой сейсморазведки // Научно-практическая конференция "Инновационные решения в геологии и разработке ТРИЗ", 8-10 ноября 2023, Москва, Россия.
 - Golubev V.I. Novel Continuum Models of Fractured Media: Dynamic Problems // Совместный научный семинар с Xi'an Jiaotong University, 21 ноября 2023 года, Пекин, Китай.
