@@ -78,6 +78,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - Эксперт заочного этапа конференции [Наука для жизни](https://bmstu.ru/bachelor/nauka-o-zhizni), 2024.
 
 ## Manuscript Reviewer / Рецензент
+- [Сибирские электронные математические известия (Q2)](http://ojs.math.nsc.ru/index.php/semr)
 - [Journal of Applied Geophysics (Q2)](https://www.journals.elsevier.com/journal-of-applied-geophysics)
 - [International Journal of Applied Mechanics (Q2)](https://www.worldscientific.com/worldscinet/ijam)
 - [Materials Physics and Mechanics (Q3)](https://mpm.spbstu.ru/)
