@@ -112,6 +112,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Весна, 2023](./courses/courses_2023_spring.md)
 - [Осень, 2023](./courses/courses_2023_autumn.md)
 - [Весна, 2024](./courses/courses_2024_spring.md)
+- [Осень, 2024](./courses/courses_2024_autumn.md)
 
 ## Some Papers / Избранные статьи
 - [Numerical Schemes of Higher Approximation Orders for Dynamic Problems of Elastoviscoplastic Media, 2024](https://elib.sfu-kras.ru/bitstream/handle/2311/152459/Golubev_n.pdf?sequence=1)
