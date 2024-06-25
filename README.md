@@ -40,6 +40,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - Голубев В.И. Математическое моделирование процесса распространения сейсмических волн в сложно построенных геологических средах // [Международная конференция «Квазилинейные уравнения, обратные задачи и их приложения» (QIPA-2021)](https://sochisirius.ru/obuchenie/graduates/smena1001/4827), 23-29 августа 2021, Сириус, Сочи, Россия.
 
 ## Invited Lector / Приглашенный лектор
+- Golubev V.I. "Mathematical Modeling of Elastoviscoplastic Media Dynamics" // Online Research Session on Computer simulation of wave, deformation and destruction processes, 24 June 2024, IPS Academy, India, Online.
 - [Численное решение пространственных динамических задач механики деформируемого твёрдого тела // НАУЧНЫЙ СЕМИНАР «Спектральная теория дифференциальных операторов»](https://expert.msu.ru/stdo24-2), 6 марта 2024, МГУ, Москва.
 - [Конгресс молодых учёных](http://photo.roscongress.org/ru/101/albums), 8-10 декабря 2021, Сириус, Сочи.
 - [Dynamic Problems in Spatially Heterogeneous Media: The Grid-Characteristic Method // One Week online AICTE Sponsored ATAL Faculty Development Program on "New Approaches in Geotechnical Earthquake Engineering"](https://youtu.be/SqjgsFEhEso), 6-10 декабря 2021, Indore, India.
