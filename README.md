@@ -89,6 +89,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Компьютерные исследования и моделирование (Q3)](http://crm.ics.org.ru/)
 - EAGE Annual Conference & Exhibition (2021-2024)
 - [Mathematical Modelling of Natural Phenomena (Q2)](https://www2.cloud.editorialmanager.com/mmnp/default2.aspx)
+- [Вычислительные методы и программирование](https://num-meth.ru/index.php)
 
 ## Dissertation Reviewer / Отзывы на диссертации
 - [Астафуров Глеб Олегович](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/astafurov-gleb-olegovich)
