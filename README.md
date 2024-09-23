@@ -15,6 +15,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Society of Petroleum Engineers (SPE)](https://www.spe.org/)
 
 ## Conferences / Конференции
+- Голубев В.И., Петров И.Б. [Численное исследование волновых явлений в неоднородных деформируемых средах](https://ceaa.imamod.ru/) // Вычислительный эксперимент в аэроакустике и аэродинамике, 16-21 сентября 2024, г. Светлогорск Калининградской области, Россия.
 - Голубев В.И., Никитин И.С., Шевченко А.В. [Динамика упруговязкопластических сред с разупрочнением (Dynamics Of Elastoviscoplastic Media With Softening)](https://iitmm.it-donstu.ru/) // Интеллектуальные информационные технологии и математическое моделирование 2024, 25-30 августа 2024, пос. Дивноморское, Россия.
 - Shevchenko A.V., Golubev V.I. [Investigation of Reverse-Time Migration for acoustic and elastic models](https://www.mathnet.ru/php/presentation.phtml?option_lang=rus&presentid=42164) // Quasilinear Equations, Inverse Problems and Their Applications 2023, 4-6 December 2023, Dolgoprudny, Russia.
 - Голубев В.И., Петров И.Б., Беклемышева К.А., Васюков А.В. Численное моделирование воздействия динамических нагрузок на конструкционные материалы и инженерные конструкции в Арктической зоне Российской Федерации // III Международная конференция «Материалы и технологии для Арктики», 5-6 декабря 2023, г. Санкт-Петербург, п. Стрельна, Россия.
