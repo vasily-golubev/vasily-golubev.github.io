@@ -42,8 +42,6 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - Голубев В.И. Математическое моделирование процесса распространения сейсмических волн в сложно построенных геологических средах // [Международная конференция «Квазилинейные уравнения, обратные задачи и их приложения» (QIPA-2021)](https://sochisirius.ru/obuchenie/graduates/smena1001/4827), 23-29 августа 2021, Сириус, Сочи, Россия.
 
 ## Invited Lector / Приглашенный лектор
-- Golubev V.I. "Mathematical Modeling of Elastoviscoplastic Media Dynamics" // Online Research Session on Computer simulation of wave, deformation and destruction processes, 24 June 2024, IPS Academy, India, Online.
-- [Численное решение пространственных динамических задач механики деформируемого твёрдого тела // НАУЧНЫЙ СЕМИНАР «Спектральная теория дифференциальных операторов»](https://expert.msu.ru/stdo24-2), 6 марта 2024, МГУ, Москва.
 - [Конгресс молодых учёных](http://photo.roscongress.org/ru/101/albums), 8-10 декабря 2021, Сириус, Сочи.
 - [Dynamic Problems in Spatially Heterogeneous Media: The Grid-Characteristic Method // One Week online AICTE Sponsored ATAL Faculty Development Program on "New Approaches in Geotechnical Earthquake Engineering"](https://youtu.be/SqjgsFEhEso), 6-10 декабря 2021, Indore, India.
 - [The Grid-Characteristic Numerical Method and Its Application to Seismic Wave Problems // Online course at Institute of Engineering and Science IPS Academy](https://www.youtube.com/watch?v=IhW4IMRWcfI&t=1251s), 01-22 February 2022, Indore, India.
@@ -57,6 +55,9 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - Голубев В.И. ["Численное моделирование процесса сейсмической разведки на Арктическом шельфе"](https://youtu.be/bH8ThkmPjLg) // [ТРИДЦАТАЯ МЕЖДУНАРОДНАЯ КОНФЕРЕНЦИЯ "МАТЕМАТИКА. КОМПЬЮТЕР. ОБРАЗОВАНИЕ"](http://www.mce.su/rus/), 23 – 27 января 2023, Пущино, Россия.
 - Golubev V.I. "HPC simulations and experimental investigation of dynamic processes in seismic survey and earthquake resistance problems" // Scientific Conference dedicated to the DAY OF RUSSIAN SCIENCE "Joint Russian-Indian Interdisciplinary Research", 8 February 2023, Russian Academy of Sciences (online).
 - Golubev V.I. "Some aspects of the grid-characteristic methods for the dynamic deformation problems" // International Conference “Numerical Methods and Experimental Techniques for Sustainable and Disaster Resilient Infrastructure”, 8-9 September 2023, Indore, India.
+- Golubev V.I. "Mathematical Modeling of Elastoviscoplastic Media Dynamics" // Online Research Session on Computer simulation of wave, deformation and destruction processes, 24 June 2024, IPS Academy, India, Online.
+- [Численное решение пространственных динамических задач механики деформируемого твёрдого тела // НАУЧНЫЙ СЕМИНАР «Спектральная теория дифференциальных операторов»](https://expert.msu.ru/stdo24-2), 6 марта 2024, МГУ, Москва.
+- [Мероприятие-спутник Конгресса молодых учёных, 2024](https://xn--80aa3ak5a.xn--p1ai/news/vedushchie-matematiki-rossii-predstavili-itogi-proektov-v-siriuse/), 26-28 сентября 2024, Сириус, Россия.
 
 ## Awards / Награды
 - [One of the most cited publications in International Journal of Applied Mechanics (IJAM), for the year 2022](https://www.worldscientific.com/doi/10.1142/S1758825122500028)
@@ -123,7 +124,8 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Осень, 2024](./courses/courses_2024_autumn.md)
 
 ## Some Papers / Избранные статьи
-- [Explicit-Implicit Schemes for Calculating Dynamics of Elastoviscoplastic Media with Softening](https://rdcu.be/dUvGP)
+- [PDE-constrained Optimization for Electroencephalographic Source Reconstruction, 2024](https://rdcu.be/dVQGX)
+- [Explicit-Implicit Schemes for Calculating Dynamics of Elastoviscoplastic Media with Softening, 2024](https://rdcu.be/dUvGP)
 - [Fast Parallel Solver of Time-harmonic Wave Equation with Topography, 2024](https://rdcu.be/dHBSc)
 - [Numerical Schemes of Higher Approximation Orders for Dynamic Problems of Elastoviscoplastic Media, 2024](https://elib.sfu-kras.ru/bitstream/handle/2311/152459/Golubev_n.pdf?sequence=1)
 - [Model of fractured medium and nondestructive control of composite materials, 2023](https://www.sciencedirect.com/science/article/pii/S1000936123004077)
