@@ -95,6 +95,9 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Вычислительные методы и программирование](https://num-meth.ru/index.php)
 
 ## Dissertation Reviewer / Отзывы на диссертации
+- [Шибаев Иннокентий Андреевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/shibaev-innokentiy-andreevich)
+- [Ярмошик Демьян Валерьевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/yarmoshik-demyan-valerevich)
+- [Новицкий Василий Геннадьевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/novitskiy-vasiliy-gennadevich)
 - [Райковский Максим Игоревич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/raykovskiy-maksim-igorevich)
 - [Чупров Петр Анатольевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/chuprov-petr-anatolevich)
 - [Астафуров Глеб Олегович](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/astafurov-gleb-olegovich)
