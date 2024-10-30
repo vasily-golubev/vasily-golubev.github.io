@@ -95,6 +95,8 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Вычислительные методы и программирование](https://num-meth.ru/index.php)
 
 ## Dissertation Reviewer / Отзывы на диссертации
+- [Райковский Максим Игоревич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/raykovskiy-maksim-igorevich)
+- [Чупров Петр Анатольевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/chuprov-petr-anatolevich)
 - [Астафуров Глеб Олегович](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/astafurov-gleb-olegovich)
 - [Аблаев Сейдамет Серверович](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/ablaev-seydamet-serverovich)
 - [Рашид Бадер](https://mipt.ru/education/post-graduate/rashid-bader.php)
