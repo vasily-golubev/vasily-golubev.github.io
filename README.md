@@ -134,6 +134,8 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Осень, 2024](./courses/courses_2024_autumn.md)
 
 ## Some Papers / Избранные статьи
+- [Explicit-Implicit Numerical Scheme for Problems in the Dynamics of Elastoviscoplastic Media with Softening, 2024](https://rdcu.be/dZvK9)
+- [Numerical Computation of Methane Migration Effect on Seismic Survey Results in Permafrost Zones, 2024](https://rdcu.be/dZvLc)
 - [PDE-constrained Optimization for Electroencephalographic Source Reconstruction, 2024](https://rdcu.be/dVQGX)
 - [Explicit-Implicit Schemes for Calculating Dynamics of Elastoviscoplastic Media with Softening, 2024](https://rdcu.be/dUvGP)
 - [Fast Parallel Solver of Time-harmonic Wave Equation with Topography, 2024](https://rdcu.be/dHBSc)
