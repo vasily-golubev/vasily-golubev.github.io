@@ -86,6 +86,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Научная премия Сбера](https://promo.sber.ru/sberscienceaward), 2024.
 
 ## Manuscript Reviewer / Рецензент
+- [Сибирский журнал индустриальной математики (Q2)](http://old.math.nsc.ru/publishing/SIBJIM/sibjim.html)
 - [Журнал вычислительной математики и математической физики (Q2)](https://sciencejournals.ru/journal/vychmat/)
 - [Сибирские электронные математические известия (Q2)](http://ojs.math.nsc.ru/index.php/semr)
 - [Journal of Applied Geophysics (Q2)](https://www.journals.elsevier.com/journal-of-applied-geophysics)
