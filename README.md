@@ -99,6 +99,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - EAGE Annual Conference & Exhibition (2021-2024)
 - [Mathematical Modelling of Natural Phenomena (Q2)](https://www2.cloud.editorialmanager.com/mmnp/default2.aspx)
 - [Вычислительные методы и программирование](https://num-meth.ru/index.php)
+- [Supercomputing Frontiers and Innovations (Q4)](https://superfri.org/)
 
 ## Dissertation Reviewer / Отзывы на диссертации
 - [Шибаев Иннокентий Андреевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/shibaev-innokentiy-andreevich)
