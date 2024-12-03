@@ -162,3 +162,6 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 
 ## HPC Systems / Используемые супер-ЭВМ
 - [ЦКП ИПМ РАН](https://www.kiam.ru/MVS/access/)
+
+## Additional Education / Дополнительное образование
+- [Цифровые навыки в разработке и преподавании образовательных программ, 2024](https://pusk.mipt.ru/badges/badge.php?hash=e63b0a73e90e1fb93db0bbb3762c049472d2158a)
