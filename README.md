@@ -90,6 +90,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 ## Manuscript Reviewer / Рецензент
 - [Frontiers in Earth Science (Q1)](https://www.frontiersin.org/journals/earth-science)
 - [Journal of Computing in Civil Engineering (Q1)](https://ascelibrary.org/journal/jccee5)
+- [Acta Mechanica Sinica/Lixue Xuebao (Q1)](https://link.springer.com/journal/10409)
 - [Сибирский журнал индустриальной математики (Q2)](http://old.math.nsc.ru/publishing/SIBJIM/sibjim.html)
 - [Журнал вычислительной математики и математической физики (Q2)](https://sciencejournals.ru/journal/vychmat/)
 - [Сибирские электронные математические известия (Q2)](http://ojs.math.nsc.ru/index.php/semr)
