@@ -139,6 +139,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Осень, 2023](./courses/courses_2023_autumn.md)
 - [Весна, 2024](./courses/courses_2024_spring.md)
 - [Осень, 2024](./courses/courses_2024_autumn.md)
+- [Весна, 2025](./courses/courses_2025_spring.md)
 
 ## Some Papers / Избранные статьи
 - [Explicit-Implicit Numerical Scheme for Problems in the Dynamics of Elastoviscoplastic Media with Softening, 2024](https://rdcu.be/dZvK9)
