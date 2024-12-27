@@ -130,6 +130,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Prof. Amit Sharma](https://ies.ipsacademy.org/departments/civil-engg/faculty-profile/) - IPS Academy, Indore, India
 - [Никитин И.С., д.ф.-м.н.](https://publons.com/researcher/2546194/ilia-nikitin/) - Институт автоматизации проектирования РАН, Москва, Россия
 - [Петров И.Б., чл.-корр. РАН](https://scholar.google.ru/citations?user=OYmiq5sAAAAJ&hl=ru) - Московский физико-технический институт, Долгопрудный, Россия
+- [Prof. Lakhmi C. Jain](http://www.kesinternational.org/organisation.php) - Founder KES International
 
 ## Taught Courses / Читаемые курсы
 - [Осень, 2021](./courses/courses_2021_autumn.md)
