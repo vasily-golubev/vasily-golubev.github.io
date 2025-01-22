@@ -78,7 +78,8 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Российски фонд фундаментальных исследований](https://www.rfbr.ru)
 - [Фонд содействия инновациям](https://fasie.ru)
 - [Дирекция научно-технических программ](http://fcntp.ru)
-- [A honorable member of Advisory Board of Civil Engineering Department, IPS Academy, Institute of Engineering & Science, Indore](https://ies.ipsacademy.org/)
+- [A honorable member of Advisory Board of Civil Engineering Department, IPS Academy, Institute of Engineering & Science, Indore, India](https://ies.ipsacademy.org/)
+- [A key member of the national international innovation center of fluid-structure interaction of smart aircraft in Xi'an Jiaotong University, Xi'an, China](http://en.xjtu.edu.cn/)
 - [Мероприятие-спутник Конгресса молодых учёных «Создание систем комплексного мониторинга и технологий прогнозирования извержений вулканов Авачинской и Мутновской групп»](https://xn--80aaa1bck7bzb.xn--80aa3ak5a.xn--p1ai/), 21-23 сентября 2022, Петропавловск-Камчатский, Россия.
 - [Кейс-чемпионат СКОЛКОВО и МФТИ](https://www.skolkovo.ru/events/kejs-chempionat-skolkovo-i-mfti/), 20 ноября 2022, Сколково, Россия.
 - [Добровольный квалификационный экзамен 2022. Python-разработчик](https://dke.moscow/), 14 декабря 2022, Москва, Россия.
