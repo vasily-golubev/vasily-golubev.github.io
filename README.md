@@ -63,8 +63,11 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - Golubev V.I. "Mathematical Modeling of Elastoviscoplastic Media Dynamics" // Online Research Session on Computer simulation of wave, deformation and destruction processes, 24 June 2024, IPS Academy, India, Online.
 - [Численное решение пространственных динамических задач механики деформируемого твёрдого тела // НАУЧНЫЙ СЕМИНАР «Спектральная теория дифференциальных операторов»](https://expert.msu.ru/stdo24-2), 6 марта 2024, МГУ, Москва.
 - [Мероприятие-спутник Конгресса молодых учёных, 2024](https://xn--80aa3ak5a.xn--p1ai/news/vedushchie-matematiki-rossii-predstavili-itogi-proektov-v-siriuse/), 26-28 сентября 2024, Сириус, Россия.
+- [МАЙНЕКС: Практический опыт и перспективы применения современных решений в области геометаллургии](https://club.minexrussia.ru/%D0%BC%D1%84%D1%82%D0%B8/#), 12 февраля 2025, Долгопрудный, Россия.
 
 ## Awards / Награды
+- Почётная грамота Департамента образования и науки города Москвы, 2024
+- [Нагрудный знак "Молодой учёный", 2022](https://minobrnauki.gov.ru/action/awardpolicy/ministry/)
 - [One of the most cited publications in International Journal of Applied Mechanics (IJAM), for the year 2022](https://www.worldscientific.com/doi/10.1142/S1758825122500028)
 - [Research Excellence Award Russia 2021](https://elsevierscience.ru/news/research_excellence_award2021/)
 - [Медаль РАН молодым учёным](https://scientificrussia.ru/articles/vruchenie-premij-i-medalej-rossijskoj-akademii-nauk-molodym-uchenym-i-studentam-rossii/)
