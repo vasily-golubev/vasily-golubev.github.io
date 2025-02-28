@@ -147,6 +147,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Весна, 2025](./courses/courses_2025_spring.md)
 
 ## Some Papers / Избранные статьи
+- [Three-Dimensional Grid-Characteristic Schemes of High Order of Approximation, 2025](https://rdcu.be/ebCoE)
 - [Simulation of Cycling Damage under High-Frequency Loading with Grid-Characteristic Method on Overlapping Meshes, 2024](https://rdcu.be/d833j)
 - [Explicit-Implicit Numerical Scheme for Problems in the Dynamics of Elastoviscoplastic Media with Softening, 2024](https://rdcu.be/dZvK9)
 - [Numerical Computation of Methane Migration Effect on Seismic Survey Results in Permafrost Zones, 2024](https://rdcu.be/dZvLc)
