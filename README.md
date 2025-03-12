@@ -113,6 +113,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Supercomputing Frontiers and Innovations (Q4)](https://superfri.org/)
 
 ## Dissertation Reviewer / Отзывы на диссертации
+- [Аркар Пхио](https://mipt.ru/institute/departments/dissertatio/soiskateli/tn/arkar-pkhio)
 - [Шибаев Иннокентий Андреевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/shibaev-innokentiy-andreevich)
 - [Ярмошик Демьян Валерьевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/yarmoshik-demyan-valerevich)
 - [Новицкий Василий Геннадьевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/novitskiy-vasiliy-gennadevich)
