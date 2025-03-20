@@ -68,6 +68,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Мероприятие-спутник Конгресса молодых учёных, 2024](https://xn--80aa3ak5a.xn--p1ai/news/vedushchie-matematiki-rossii-predstavili-itogi-proektov-v-siriuse/), 26-28 сентября 2024, Сириус, Россия.
 - [МАЙНЕКС: Практический опыт и перспективы применения современных решений в области геометаллургии](https://club.minexrussia.ru/%D0%BC%D1%84%D1%82%D0%B8/#), 12 февраля 2025, Долгопрудный, Россия.
 - [IT Purple Conf, 2025](https://vkvideo.ru/video-185936247_456239063), 15 марта 2025, Сколково, Россия.
+- International Forum on Industry-Education-Research Integrated Development, 20 March 2025, Jinan, China
 
 ## Awards / Награды
 - Почётная грамота Департамента образования и науки города Москвы, 2024
