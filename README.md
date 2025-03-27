@@ -84,6 +84,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 
 ## Reviewer / Эксперт
 - [Российский научный фонд](https://rscf.ru)
+- [Федеральный реестр экспертов научно-технической сферы](https://reestr.extech.ru)
 - [Российски фонд фундаментальных исследований](https://www.rfbr.ru)
 - [Фонд содействия инновациям](https://fasie.ru)
 - [Дирекция научно-технических программ](http://fcntp.ru)
