@@ -115,6 +115,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Mathematical Modelling of Natural Phenomena (Q2)](https://www2.cloud.editorialmanager.com/mmnp/default2.aspx)
 - [Вычислительные методы и программирование](https://num-meth.ru/index.php)
 - [Supercomputing Frontiers and Innovations (Q4)](https://superfri.org/)
+- [Journal of Vibroengineering (Q3)](https://www.extrica.com/journal/jve)
 
 ## Dissertation Reviewer / Отзывы на диссертации
 - [Аркар Пхио](https://mipt.ru/institute/departments/dissertatio/soiskateli/tn/arkar-pkhio)
