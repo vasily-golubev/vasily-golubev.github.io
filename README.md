@@ -1,4 +1,4 @@
-# Vasily Golubev / Василий Иванович Голубев
+![image](https://github.com/user-attachments/assets/4e02fab9-ac2c-4487-9255-4cb84b79fe35)# Vasily Golubev / Василий Иванович Голубев
 
 Professor and Leading Researcher at [Moscow Institute of Physics and Technology](https://mipt.ru), [Doctor of Science (2022)](https://mipt.ru/education/post-graduate/golubev-vasiliy-ivanovich.php), [PhD (2014)](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Golubev_Vasiliy_Ivanovich)
 
@@ -85,7 +85,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 ## Reviewer / Эксперт
 - [Российский научный фонд](https://rscf.ru)
 - [Федеральный реестр экспертов научно-технической сферы](https://reestr.extech.ru)
-- [Российски фонд фундаментальных исследований](https://www.rfbr.ru)
+- [Российский фонд фундаментальных исследований](https://www.rfbr.ru)
 - [Фонд содействия инновациям](https://fasie.ru)
 - [Дирекция научно-технических программ](http://fcntp.ru)
 - [A honorable member of Advisory Board of Civil Engineering Department, IPS Academy, Institute of Engineering & Science, Indore, India](https://ies.ipsacademy.org/)
@@ -156,6 +156,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Весна, 2025](./courses/courses_2025_spring.md)
 
 ## Some Papers / Избранные статьи
+- [Study of Rheological Ice Models based on Numerical Simulation of Low-Velocity Impact with a Ball Indentor, 2025](https://rdcu.be/eilgE)
 - [Three-Dimensional Grid-Characteristic Schemes of High Order of Approximation, 2025](https://rdcu.be/ebCoE)
 - [Simulation of Cycling Damage under High-Frequency Loading with Grid-Characteristic Method on Overlapping Meshes, 2024](https://rdcu.be/d833j)
 - [Explicit-Implicit Numerical Scheme for Problems in the Dynamics of Elastoviscoplastic Media with Softening, 2024](https://rdcu.be/dZvK9)
