@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4e02fab9-ac2c-4487-9255-4cb84b79fe35)# Vasily Golubev / Василий Иванович Голубев
+# Vasily Golubev / Василий Иванович Голубев
 
 Professor and Leading Researcher at [Moscow Institute of Physics and Technology](https://mipt.ru), [Doctor of Science (2022)](https://mipt.ru/education/post-graduate/golubev-vasiliy-ivanovich.php), [PhD (2014)](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Golubev_Vasiliy_Ivanovich)
 
