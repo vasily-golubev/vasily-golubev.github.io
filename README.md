@@ -70,6 +70,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [МАЙНЕКС: Практический опыт и перспективы применения современных решений в области геометаллургии](https://club.minexrussia.ru/%D0%BC%D1%84%D1%82%D0%B8/#), 12 февраля 2025, Долгопрудный, Россия.
 - [IT Purple Conf, 2025](https://vkvideo.ru/video-185936247_456239063), 15 марта 2025, Сколково, Россия.
 - International Forum on Industry-Education-Research Integrated Development, 20 March 2025, Jinan, China
+- [Выступление на ОТР в программе "Задачи Арктики" (с 21 минуты)](https://otr-online.ru/programmy/ochevidno-veroyatno/zadachi-arktiki-89089.html), 10 мая 2025, Россия.
 
 ## Awards / Награды
 - Почётная грамота Департамента образования и науки города Москвы, 2024
