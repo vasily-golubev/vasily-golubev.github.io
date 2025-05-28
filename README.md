@@ -155,7 +155,8 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Весна, 2024](./courses/courses_2024_spring.md)
 - [Осень, 2024](./courses/courses_2024_autumn.md)
 - [Весна, 2025](./courses/courses_2025_spring.md)
-
+- [Осень, 2025](./courses/courses_2025_autumn.md)
+  
 ## Some Papers / Избранные статьи
 - [Study of Rheological Ice Models based on Numerical Simulation of Low-Velocity Impact with a Ball Indentor, 2025](https://rdcu.be/eilgE)
 - [Three-Dimensional Grid-Characteristic Schemes of High Order of Approximation, 2025](https://rdcu.be/ebCoE)
