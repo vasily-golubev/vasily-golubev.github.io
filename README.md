@@ -186,3 +186,6 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 
 ## Additional Education / Дополнительное образование
 - [Цифровые навыки в разработке и преподавании образовательных программ, 2024](https://pusk.mipt.ru/badges/badge.php?hash=e63b0a73e90e1fb93db0bbb3762c049472d2158a)
+
+## Media / СМИ
+- [Simulation of Cycling Damage under High-Frequency Loading](https://zanauku.mipt.ru/2025/06/10/rossijskie-uchenye-nauchilis-predskazyvat-razrushenie-materialov-ot-vibratsij-s-vysochajshej-tochnostyu/)
