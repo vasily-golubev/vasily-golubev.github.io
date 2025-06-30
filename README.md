@@ -119,6 +119,8 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Journal of Vibroengineering (Q3)](https://www.extrica.com/journal/jve)
 
 ## Dissertation Reviewer / Отзывы на диссертации
+- [Нгуен Ван Лам](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/nguen-van-lam)
+- [Ал-Аззави Зобеда Хатиф Наджи](https://mipt.ru/institute/departments/dissertatio/soiskateli/tn/al-azzavi-zobeda-khatif-nadzhi)
 - [Аркар Пхио](https://mipt.ru/institute/departments/dissertatio/soiskateli/tn/arkar-pkhio)
 - [Шибаев Иннокентий Андреевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/shibaev-innokentiy-andreevich)
 - [Ярмошик Демьян Валерьевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/yarmoshik-demyan-valerevich)
