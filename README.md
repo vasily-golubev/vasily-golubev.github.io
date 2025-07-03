@@ -15,6 +15,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Society of Petroleum Engineers (SPE)](https://www.spe.org/)
 
 ## PhD Students / Защиты аспирантов
+- [Khalid Waleed, 2025](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/khalid-valid)
 - [Шевченко Алексей Владимирович, 2025](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/shevchenko-aleksey-vladimirovich)
 
 ## Conferences / Конференции
@@ -35,7 +36,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - Гусева Е.К., Голубев В.И., Муратов М.В., Петров И.Б. Создание моделей для численного решения прямых задач сейсморазведки в условиях вечной мерзлоты // [VI Всероссийская научно-практическая конференция с международным участием «ПОЛЯРНАЯ МЕХАНИКА»](https://www.nntu.ru/content/nauka/konferencii-seminary-forumy-i-olimpiady/cont/polar-mech), 23-24 марта 2023, Нижний Новгород, Россия.
 - Шевченко А.В., Голубев В.И. Двумерные сеточно-характеристические схемы для расчёта акустических и упругих волн // [ТРИДЦАТАЯ МЕЖДУНАРОДНАЯ КОНФЕРЕНЦИЯ "МАТЕМАТИКА. КОМПЬЮТЕР. ОБРАЗОВАНИЕ"](http://www.mce.su/rus/presentations/p435657/), 23–27 января 2023, Пущино, Россия.
 - Васюков А.В., Никитин И.С., Голубев В.И. Глубокие свёрточные нейронные сети в задачах разведочной геофизики // [Минисимпозиум «Задачи механики деформируемых сред с поверхностями раздела»](http://conf.ict.nsc.ru/mdm22/ru), 26-28 сентября 2022, Красноярск, Россия.
-- Golubev V.I., Nikitin I.S., Vasyukov A.V., Petrov I.B., Nikitin A.D. Fractured inclusion localization and characterization based on deep convolutional neural networks // [International Conference on  Materials Structure and Micromechanics of Fracture (MSMF10)](https://msmf.fme.vutbr.cz/msmf10/), 12-13 September, Brno, Czech Republic.
+- Golubev V.I., Nikitin I.S., Vasyukov A.V., Petrov I.B., Nikitin A.D. Fractured inclusion localization and characterization based on deep convolutional neural networks // [International Conference on  Materials Structure and Micromechanics of Fracture (MSMF10)](https://msmf.fme.vutbr.cz/msmf10/), 12-13 September 2022, Brno, Czech Republic.
 - Голубев В.И., Голубева Ю.А., Никитин И.С. Явно-неявные схемы повышенного порядка аппроксимации для расчета анизотропных вязкопластических сред // [XIV Международная конференция по Прикладной математике и механике в аэрокосмической отрасли (AMMAI'2022)](http://www.npnj.ru/), 4-13 сентября 2022, Алушта, Крым.
 - Никитин И.С., Голубев В.И., Скубачевский А.А. Схемы повышенного порядка аппроксимации для расчета динамики вязкопластических сред // [Всероссийская научная конференция «Теоретические основы конструирования численных алгоритмов и решение задач математической физики», посвященная памяти К.И. Бабенко](http://agora.guru.ru/babenko), 24-26 августа 2022, Пущино, Россия.
 - Никитин И.С., Голубев В.И., Хохлов Н.И., Миряха В.А. Численное моделирование сейсмических откликов от трещиноватых геологических слоёв // [V Международная конференция «Суперкомпьютерные технологии математического моделирования»](http://multiscalemr.ru/ru/sctemm_2022/), 27-30 июня 2022, Москва, Россия.
