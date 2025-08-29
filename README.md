@@ -10,9 +10,14 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 
 ## Community Membership / Сообщества
 
+- [The CORE Academy](https://coreacad.org/) - Junior Fellow, 2025
+
 - [European Association of Geoscientists and Engineers (EAGE)](https://eage.org/)
 
 - [Society of Petroleum Engineers (SPE)](https://www.spe.org/)
+
+- [Russian Academy of Engineering](https://info-rae.ru/) - Correspondence Member
+
 
 ## PhD Students / Защиты аспирантов
 - [Khalid Waleed, 2025](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/khalid-valid)
@@ -70,8 +75,9 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Мероприятие-спутник Конгресса молодых учёных, 2024](https://xn--80aa3ak5a.xn--p1ai/news/vedushchie-matematiki-rossii-predstavili-itogi-proektov-v-siriuse/), 26-28 сентября 2024, Сириус, Россия.
 - [МАЙНЕКС: Практический опыт и перспективы применения современных решений в области геометаллургии](https://club.minexrussia.ru/%D0%BC%D1%84%D1%82%D0%B8/#), 12 февраля 2025, Долгопрудный, Россия.
 - [IT Purple Conf, 2025](https://vkvideo.ru/video-185936247_456239063), 15 марта 2025, Сколково, Россия.
-- International Forum on Industry-Education-Research Integrated Development, 20 March 2025, Jinan, China
+- International Forum on Industry-Education-Research Integrated Development, 20 March 2025, Jinan, China.
 - [Выступление на ОТР в программе "Задачи Арктики" (с 21 минуты)](https://otr-online.ru/programmy/ochevidno-veroyatno/zadachi-arktiki-89089.html), 10 мая 2025, Россия.
+- Joint Research Seminar at School of Aerospace Engineering, Xi'an Jiaotong University, 6 August 2025, Xi'an, China.
 
 ## Awards / Награды
 - Почётная грамота Департамента образования и науки города Москвы, 2024
@@ -99,6 +105,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - Эксперт на финале программы УМНИК-МФТИ-2023, 8 декабря 2023, Долгопрудный, Россия.
 - Эксперт заочного этапа конференции [Наука для жизни](https://bmstu.ru/bachelor/nauka-o-zhizni), 2024.
 - [Научная премия Сбера](https://promo.sber.ru/sberscienceaward), 2024.
+- [Научная премия Сбера](https://promo.sber.ru/sberscienceaward), 2025.
 
 ## Manuscript Reviewer / Рецензент
 - [Frontiers in Earth Science (Q1)](https://www.frontiersin.org/journals/earth-science)
@@ -148,6 +155,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Никитин И.С., д.ф.-м.н.](https://publons.com/researcher/2546194/ilia-nikitin/) - Институт автоматизации проектирования РАН, Москва, Россия
 - [Петров И.Б., чл.-корр. РАН](https://scholar.google.ru/citations?user=OYmiq5sAAAAJ&hl=ru) - Московский физико-технический институт, Долгопрудный, Россия
 - [Prof. Lakhmi C. Jain](http://www.kesinternational.org/organisation.php) - Founder KES International
+- [Кузнецов С.В.](https://mgsu.ru/universityabout/Struktura/Kafedri/Str_i_teor_meh/members-of-the-department/kuznetsov.php) - НИУ МГСУ, Москва, Россия
 
 ## Taught Courses / Читаемые курсы
 - [Осень, 2021](./courses/courses_2021_autumn.md)
@@ -161,6 +169,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Осень, 2025](./courses/courses_2025_autumn.md)
   
 ## Some Papers / Избранные статьи
+- [Numerical Simulation of Selective Laser Melting of Titanium and Aluminum Alloy Powders, 2025](https://link.springer.com/article/10.1134/S2070048225700048)
 - [Study of Rheological Ice Models based on Numerical Simulation of Low-Velocity Impact with a Ball Indentor, 2025](https://rdcu.be/eilgE)
 - [Three-Dimensional Grid-Characteristic Schemes of High Order of Approximation, 2025](https://rdcu.be/ebCoE)
 - [Simulation of Cycling Damage under High-Frequency Loading with Grid-Characteristic Method on Overlapping Meshes, 2024](https://rdcu.be/d833j)
