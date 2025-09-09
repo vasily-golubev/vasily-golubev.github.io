@@ -10,7 +10,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 
 ## Community Membership / Сообщества
 
-- [The CORE Academy](https://coreacad.org/) - Junior Fellow, 2025
+- [The CORE Academy](https://www.coreacad.org/Member.aspx?ProId=181) - Junior Fellow, 2025
 
 - [European Association of Geoscientists and Engineers (EAGE)](https://eage.org/)
 
