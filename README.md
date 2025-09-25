@@ -78,6 +78,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - International Forum on Industry-Education-Research Integrated Development, 20 March 2025, Jinan, China.
 - [Выступление на ОТР в программе "Задачи Арктики" (с 21 минуты)](https://otr-online.ru/programmy/ochevidno-veroyatno/zadachi-arktiki-89089.html), 10 мая 2025, Россия.
 - Joint Research Seminar at School of Aerospace Engineering, Xi'an Jiaotong University, 6 August 2025, Xi'an, China.
+- [10th BRICS Young Scientists Forum and the 8th BRICS Young Innovators Prize](https://www.flickr.com/photos/sintonizemcti/54789483802/in/album-72177720329040785), 15-17 September 2025, Brazil.
 
 ## Awards / Награды
 - Почётная грамота Департамента образования и науки города Москвы, 2024
