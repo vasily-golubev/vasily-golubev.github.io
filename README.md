@@ -128,28 +128,73 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Journal of Vibroengineering (Q3)](https://www.extrica.com/journal/jve)
 
 ## Dissertation Reviewer / Отзывы на диссертации
+<details>
+<summary> 2025 </summary>
+  
 - [Лукьянченко Петр Павлович](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/lukyanchenko-petr-pavlovich)
+
 - [Нгуен Ван Лам](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/nguen-van-lam)
+  
 - [Ал-Аззави Зобеда Хатиф Наджи](https://mipt.ru/institute/departments/dissertatio/soiskateli/tn/al-azzavi-zobeda-khatif-nadzhi)
+  
 - [Аркар Пхио](https://mipt.ru/institute/departments/dissertatio/soiskateli/tn/arkar-pkhio)
+  
+</details>
+
+<details>
+<summary> 2024 </summary>
+  
 - [Шибаев Иннокентий Андреевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/shibaev-innokentiy-andreevich)
+  
 - [Ярмошик Демьян Валерьевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/yarmoshik-demyan-valerevich)
+  
 - [Новицкий Василий Геннадьевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/novitskiy-vasiliy-gennadevich)
+  
 - [Райковский Максим Игоревич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/raykovskiy-maksim-igorevich)
+  
 - [Чупров Петр Анатольевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/chuprov-petr-anatolevich)
+  
 - [Астафуров Глеб Олегович](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/astafurov-gleb-olegovich)
+  
 - [Аблаев Сейдамет Серверович](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/ablaev-seydamet-serverovich)
+  
+</details>
+
+<details>
+<summary> 2023 </summary>
+  
 - [Рашид Бадер](https://mipt.ru/education/post-graduate/rashid-bader.php)
+  
 - [Остроухов Петр Алексеевич](https://mipt.ru/education/post-graduate/ostroukhov-petr-alekseevich.php)
+  
 - [Смирнова Надежда Сергеевна](https://mipt.ru/education/post-graduate/smirnova-nadezhda-sergeevna.php)
+  
 - [Переберина Анастасия Александровна](https://mipt.ru/education/post-graduate/pereberina-anastasiya-aleksandrovna.php)
+  
 - [Стецюк Владислав](https://mipt.ru/education/post-graduate/stetsyuk-vladislav.php)
+  
 - [Митьковец Иван Анатольевич](https://mipt.ru/education/post-graduate/mitkovets-ivan-anatolevich.php)
+  
 - [Жавхлан Саруул](https://mgsu.ru/science/Dissoveti/Zashita_dissert/52898/)
+  
 - [Рогозин Александр Викторович](https://mipt.ru/education/post-graduate/rogozin-aleksandr-viktorovich.php)
+
+</details>
+
+<details>
+<summary> 2021 </summary>
+  
 - [Муртазин Дамир Гумарович](https://npf-geofizika.ru/services/aspirantura/dissertatsionnyy-sovet/obyavleniya-o-zashchite/murtazin-damir-gumarovich/)
+
+</details>
+
+<details>
+<summary> 2018 </summary>
+  
 - [Моисеева Юлия Александровна](http://earchive.tpu.ru/handle/11683/52813)
+  
 - [Пургина Дарья Валерьевна](http://earchive.tpu.ru/bitstream/11683/52814/1/thesis_tpu-2018-38.pdf)
+</details>
 
 ## Collaborators / Коллеги
 - [Dr. Chen Gang](https://gr.xjtu.edu.cn/en/web/aachengang/8) - Xi'an Jiaotong University, Xi'an, China
