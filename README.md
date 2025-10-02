@@ -203,3 +203,4 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 
 ## Media / СМИ
 - [Simulation of Cycling Damage under High-Frequency Loading](https://zanauku.mipt.ru/2025/06/10/rossijskie-uchenye-nauchilis-predskazyvat-razrushenie-materialov-ot-vibratsij-s-vysochajshej-tochnostyu/)
+- [Dynamic Fracturing of Ice](https://zanauku.mipt.ru/2025/09/21/ne-prosto-treshhina-uchenye-raskryli-volnovuyu-prirodu-razrusheniya-lda/)
