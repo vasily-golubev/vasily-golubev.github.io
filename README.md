@@ -25,6 +25,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Шевченко Алексей Владимирович, 2025](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/shevchenko-aleksey-vladimirovich)
 
 ## Conferences / Конференции
+- Golubev V.I., Petrov I.B., Nikitin I.S. [Full-wave modeling of seismic barriers with the grid-characteristic method](https://qipa2025.mipt.ru/) // 11th International Conference "Quasilinear Equations, Inverse Problems and their Applications" (QIPA 2025), 6-10 October 2025, Sirius, Russia.
 - Шевченко А.В., Голубев В.И. [Развитие сеточно-характеристических методов повышенного порядка аппроксимации для задач сейсмической разведки](http://pts.mi-perm.ru/conf/?page_id=1392) // "XXVI Уральская молодежная научная школа по геофизике", 18-20 марта 2025, Пермь, Россия.
 - Голубев В.И., Никитин И.С., Петров И.Б. [Численное решение задач локализации трещиноватых включений в геомассивах с использованием континуальной модели слоистой среды с межслойным проскальзыванием](https://siriusmathcenter.ru/program_053w) // "Перспективы математического моделирования физических процессов в многомасштабных геологических средах", 4-8 ноября 2024, Сириус, Россия.
 - Голубев В.И., Никитин И.С., Петров И.Б., Шевченко А.В. [Явно-неявные схемы расчета динамики упруговязкопластических сред с разупрочнением](https://siriusmathcenter.ru/program_052w) // "Вычислительная классическая и многофазная гидродинамика и термомеханика сплошной среды", 4-8 ноября 2024, Сириус, Россия.
@@ -80,6 +81,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Выступление на ОТР в программе "Задачи Арктики" (с 21 минуты)](https://otr-online.ru/programmy/ochevidno-veroyatno/zadachi-arktiki-89089.html), 10 мая 2025, Россия.
 - Joint Research Seminar at School of Aerospace Engineering, Xi'an Jiaotong University, 6 August 2025, Xi'an, China.
 - [10th BRICS Young Scientists Forum and the 8th BRICS Young Innovators Prize](https://www.flickr.com/photos/sintonizemcti/54789483802/in/album-72177720329040785), 15-17 September 2025, Brazil.
+- 2025 China Conference on Tunnel and Underground Construction, 25-27 October 2025, Hefei, China.
 
 ## Awards / Награды
 - Почётная грамота Департамента образования и науки города Москвы, 2024
