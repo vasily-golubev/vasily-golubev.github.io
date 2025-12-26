@@ -16,7 +16,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 
 - [Society of Petroleum Engineers (SPE)](https://www.spe.org/)
 
-- [Russian Academy of Engineering](https://info-rae.ru/) - Correspondence Member
+- [Russian Academy of Engineering](https://info-rae.ru/) - Academician
 
 
 ## PhD Students / Защиты аспирантов
@@ -184,6 +184,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Осень, 2024](./courses/courses_2024_autumn.md)
 - [Весна, 2025](./courses/courses_2025_spring.md)
 - [Осень, 2025](./courses/courses_2025_autumn.md)
+- [Весна, 2026](./courses/courses_2026_spring.md)
   
 ## Some Papers / Избранные статьи
 - [Numerical Simulation of Selective Laser Melting of Titanium and Aluminum Alloy Powders, 2025](https://link.springer.com/article/10.1134/S2070048225700048)
