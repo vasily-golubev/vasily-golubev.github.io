@@ -1,8 +1,8 @@
 # Vasily Golubev / Василий Иванович Голубев
 
-Professor and Leading Researcher at [Moscow Institute of Physics and Technology](https://mipt.ru), [Doctor of Science (2022)](https://mipt.ru/education/post-graduate/golubev-vasiliy-ivanovich.php), [PhD (2014)](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Golubev_Vasiliy_Ivanovich)
+Professor at [Moscow Institute of Physics and Technology](https://mipt.ru), [Doctor of Science (2022)](https://mipt.ru/education/post-graduate/golubev-vasiliy-ivanovich.php), [PhD (2014)](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Golubev_Vasiliy_Ivanovich)
 
-Профессор и ведущий научный сотрудник в [Московском физико-техническом институте](https://mipt.ru), [д.ф.-м.н. (2022)](https://mipt.ru/education/post-graduate/golubev-vasiliy-ivanovich.php), [к.ф.-м.н. (2014)](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Golubev_Vasiliy_Ivanovich)
+Профессор в [Московском физико-техническом институте](https://mipt.ru), [д.ф.-м.н. (2022)](https://mipt.ru/education/post-graduate/golubev-vasiliy-ivanovich.php), [к.ф.-м.н. (2014)](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Golubev_Vasiliy_Ivanovich)
 
 [Email](mailto:w.golubev@mail.ru), [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=56290013800), [ResearchGate](https://www.researchgate.net/profile/Vasily-Golubev-2), [GitHub](https://github.com/vasily-golubev)
 
@@ -134,7 +134,27 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 
 ## Dissertation Reviewer / Отзывы на диссертации
 
+**2026**
+- [Савчук Олег Сергеевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/savchuk-oleg-sergeevich)
+- [Дерека Станислав Артурович](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/dereka-stanislav-arturovich)
+- [Балаганский Никита Николаевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/balaganskiy-nikita-nikolaevich)
+- [Никулин Александр Павлович](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/nikulin-aleksandr-pavlovich)
+
 **2025:**
+- [Дорофеев Федор Евгеньевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/tn/dorofeev-fedor-evgenevich)
+- [Карпачёв Николай Евгеньевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/tn/karpachyev-nikolay-evgenevich)
+- [Холматова Замира Шухратовна](https://www.mipt.ru/institute/departments/dissertatio/soiskateli/tn/kholmatova-zamira-shukhratovna)
+- [Гаджимирзаев Шамиль Мусиевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/gadzhimirzaev-shamil-musievich)
+- [Плетнев Никита Вячеславович](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/pletnev-nikita-vyacheslavovich)
+- [Кузнецов Александр Алексеевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/kuznetsov-aleksandr-alekseevich)
+- [Агафонов Артем Дмитриевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/agafonov-artem-dmitrievich)
+- [Лобанов Александр Владимирович](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/lobaanov-aleksandr-vladimirovich)
+- [Хирьянов Тимофей Федорович](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/khiryanov-timofey-fedorovich)
+- [Черкасов Алексей Михайлович](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/cherkasov-aleksey-mikhaylovich)
+- [Курузов Илья Алексеевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/kuruzov-ilya-alekseevich)
+- [Зимина Софья Васильевна](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/zimina-sofya-vasilevna)
+- [Сафронов Андрей Александрович](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/safronov-andrey-aleksandrovich)
+- [Ситников Сергей Сергеевич](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/sitnikov-sergey-sergeevich)
 - [Лукьянченко Петр Павлович](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/lukyanchenko-petr-pavlovich)
 - [Нгуен Ван Лам](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/nguen-van-lam)
 - [Ал-Аззави Зобеда Хатиф Наджи](https://mipt.ru/institute/departments/dissertatio/soiskateli/tn/al-azzavi-zobeda-khatif-nadzhi)
