@@ -20,6 +20,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 
 
 ## PhD Students / Защиты аспирантов
+- [Ми Синь, 2026](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/mi-sin)
 - [Корнев Егор Кириллович, 2025](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/kornev-egor-kirillovich)
 - [Khalid Waleed, 2025](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/khalid-valid)
 - [Шевченко Алексей Владимирович, 2025](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/shevchenko-aleksey-vladimirovich)
