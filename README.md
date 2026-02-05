@@ -127,7 +127,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Компьютерные исследования и моделирование (Q3)](http://crm.ics.org.ru/)
 - [Физика Земли (Q3)](https://portal.ifz.ru/fizika-zemli)
 - [Russian Journal of Nonlinear Dynamics](http://nd.ics.org.ru/)
-- EAGE Annual Conference & Exhibition (2021-2024)
+- EAGE Annual Conference & Exhibition (2021-2026)
 - [Mathematical Modelling of Natural Phenomena (Q2)](https://www2.cloud.editorialmanager.com/mmnp/default2.aspx)
 - [Вычислительные методы и программирование](https://num-meth.ru/index.php)
 - [Supercomputing Frontiers and Innovations (Q4)](https://superfri.org/)
