@@ -25,6 +25,9 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Khalid Waleed, 2025](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/khalid-valid)
 - [Шевченко Алексей Владимирович, 2025](https://mipt.ru/institute/departments/dissertatio/soiskateli/fm/shevchenko-aleksey-vladimirovich)
 
+## Dissertation Councils / Диссертационные советы
+- [75.2.113.01 - Innopolis University](https://innopolis.university/)
+
 ## Conferences / Конференции
 - Корнев Е.К., Голубев В.И. [Применение формата Таккера для численного решения уравнения Больцмана с S-модельным интегралом столкновений методом дискретных скоростей](https://www.frccsc.ru/conferences/rarefied/) // Третья научная конференция «Модели и методы динамики разреженных газов», 20 – 21 ноября 2025 года, ФИЦ ИУ РАН, Москва
 - Golubev V.I., Petrov I.B., Nikitin I.S. [Full-wave modeling of seismic barriers with the grid-characteristic method](https://qipa2025.mipt.ru/) // 11th International Conference "Quasilinear Equations, Inverse Problems and their Applications" (QIPA 2025), 6-10 October 2025, Sirius, Russia.
@@ -87,6 +90,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - 2025 China Conference on Tunnel and Underground Construction, 25-27 October 2025, Hefei, China.
 
 ## Awards / Награды
+- [Премия Правительства Москвы молодым учёным, 2025](https://nauka.mos.ru/)
 - Почётная грамота Департамента образования и науки города Москвы, 2024
 - [Нагрудный знак "Молодой учёный", 2022](https://minobrnauki.gov.ru/action/awardpolicy/ministry/)
 - [One of the most cited publications in International Journal of Applied Mechanics (IJAM), for the year 2022](https://www.worldscientific.com/doi/10.1142/S1758825122500028)
