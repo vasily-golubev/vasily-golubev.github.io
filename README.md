@@ -27,6 +27,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 
 ## Dissertation Councils / Диссертационные советы
 - [75.2.113.01 - Innopolis University](https://innopolis.university/)
+- [Экспертный совет ВАК по математике и механике](https://vak.gisnauka.ru/expert-councils/list)
 
 ## Conferences / Конференции
 - Корнев Е.К., Голубев В.И. [Применение формата Таккера для численного решения уравнения Больцмана с S-модельным интегралом столкновений методом дискретных скоростей](https://www.frccsc.ru/conferences/rarefied/) // Третья научная конференция «Модели и методы динамики разреженных газов», 20 – 21 ноября 2025 года, ФИЦ ИУ РАН, Москва
