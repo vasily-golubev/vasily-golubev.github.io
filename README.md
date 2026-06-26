@@ -211,6 +211,7 @@ English Certificates (B2): [Listening, Reading, Writing](https://badges.peoplece
 - [Весна, 2025](./courses/courses_2025_spring.md)
 - [Осень, 2025](./courses/courses_2025_autumn.md)
 - [Весна, 2026](./courses/courses_2026_spring.md)
+- [Осень, 2026](./courses/courses_2026_autumn.md)
   
 ## Some Papers / Избранные статьи
 - [Numerical Simulation of Selective Laser Melting of Titanium and Aluminum Alloy Powders, 2025](https://link.springer.com/article/10.1134/S2070048225700048)
